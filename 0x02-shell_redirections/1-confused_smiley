@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "(Ôo)'"
+echo -e "\033[1m(\x4f\x6f)\033[0m"
